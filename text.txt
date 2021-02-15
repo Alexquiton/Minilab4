@@ -1,8 +1,3 @@
 This is a text file
 for minilab 4
-<<<<<<< HEAD
-lmao lmao lmao
-=======
-
-adding another line
->>>>>>> e4b92877b07d46cc386412c0e7dbdc65307803dd
+test
